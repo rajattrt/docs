@@ -78,4 +78,4 @@ For mentoring, tutorials, and learning, vist [node school](https://nodeschool.io
 
 ### CLI Reference Doc / Online Help
 
-While relevant CLI commands are covered throughout this user documentation, the CLI includes command line help, its own [documentation section, and instant help (man pages)](https://docs.npmjs.com/cli/help). When you click a doc about [any CLI command](https://docs.npmjs.com/cli/help-search), a list of all CLI commands appears in the left-hand side bar. You can also access the list of CLI commands by scrolling to CLI Commands on the [docs home page](https://docs.npmjs.com).
+While relevant CLI commands are covered throughout this user documentation, the CLI includes command line help, its own [documentation section, and instant help (man pages)](https://docs.npmjs.com/cli/help). When you click a doc about [any CLI command](https://docs.npmjs.com/cli/help-search), a list of all CLI commands appears in the left-hand side bar. You can also access the list of CLI commands by scrolling to CLI commands on the [docs home page](https://docs.npmjs.com).
